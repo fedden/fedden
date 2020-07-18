@@ -4,7 +4,7 @@ Nice to meet you! I'm a passionate Artificial Intelligence researcher, engineer 
 
 In my free time, I love to work on a new startup that is going to revolutionise how we invest in property. Besides that, I love playing video games (last of us 2 was incredible), and being in the UK, I love cooking a big roast on Sunday. 🎉
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/fedden" alt="https://github.com/fedden" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fedden" alt="https://github.com/fedden" /> </p>
 
 - 🔭 I’m currently working on [Poker AI](https://github.com/fedden/poker_ai)
 - 💬 Ask me about **ML, scientific computing, building apps**
