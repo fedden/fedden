@@ -11,7 +11,7 @@ In my free time, I love to work on a new startup that is going to revolutionise 
 - 📫 How to reach me **leonfedden@gmail.com**
 
 <p align="center">
-<a href="https://twitter.com/https://twitter.com/leonfedden" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/leonfedden" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/leon-fedden/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/leon-fedden/" height="20" width="20" /></a>
-<a href="https://instagram.com/https://www.instagram.com/leonfedden/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/leonfedden/" height="20" width="20" /></a>
+<a href="https://twitter.com/leonfedden" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/leonfedden" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/leon-fedden/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/leon-fedden/" height="20" width="20" /></a>
+<a href="https://instagram.com/leonfedden/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/leonfedden/" height="20" width="20" /></a>
 </p>
