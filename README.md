@@ -15,3 +15,11 @@ In my free time, I am working on a new startup that is going to revolutionise ho
 <a href="https://linkedin.com/in/leon-fedden/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/leon-fedden/" height="20" width="20" /></a>
 <a href="https://instagram.com/leonfedden/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/leonfedden/" height="20" width="20" /></a>
 </p>
+
+<h2 align="center">🔥 The people that make this work possible 🔥</h2>
+
+I want to thank my sponsors at [Supabase](https://supabase.io/). Their product is great, I'm absolutely an advocate for it and use it internally for all sorts of projects. You should check it out. 
+
+<p align="center"> <img width=300 src="https://i.ibb.co/mH9wCtC/Screenshot-2021-02-17-at-10-48-37.png" alt="https://github.com/fedden" /> </p>
+
+If you like what I'm doing and would like to buy me a coffee - please consider sponsering my work or get in touch! Thanks 🙂
