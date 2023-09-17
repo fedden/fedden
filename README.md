@@ -4,7 +4,7 @@ Nice to meet you! I'm a Deep Learning Lead at AstraZeneca, previously AI researc
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fedden" alt="https://github.com/fedden" /> </p>
 
-- 🔭 I’m currently working on [Poker AI](https://github.com/fedden/poker_ai)
+- 🔭 Previously worked on [Poker AI](https://github.com/fedden/poker_ai)
 - 💬 Ask me about **ML, scientific computing, building apps**
 - 📫 How to reach me **leonfedden@gmail.com**
 
